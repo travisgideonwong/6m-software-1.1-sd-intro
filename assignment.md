@@ -4,12 +4,12 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 1. What is the right margin of the first element? 
 ```
-Your answer here
+Your answer here: The right margin of the first element is 50px.
 ```
 
 2. What is the top padding of the second element?
 ```
-Your answer here
+Your answer here: The top padding of the second element is 100px. 
 ```
 
 3. What is the class name of the third element and the content of the css?
@@ -19,12 +19,12 @@ Your answer here
 
 4. What is the css selector of the fourth element?
 ```
-Your answer here
+Your answer here: The css selector of the fourth element is class .elementThree.
 ```
 
 5. What is the code you use to keep the blue box within the purple?
 ```
-Your answer here
+Your answer here: The code used to keep the blue box within the purple is border: medium 8px solid; on the div with the css selector .child
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
